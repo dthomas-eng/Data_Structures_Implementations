@@ -1,0 +1,21 @@
+Welcome! This is my personal set of data structure implementations in Python.
+
+Currently Included:
+Stack
+
+To be added later:
++Singly Linked List
++Doubly Linked List
++Binary Search Tree
++Hash Map
++Queue
++Union Find
++Priority Queue
++Fenwick Tree
++Suffix Array
++Balanced Binary Search Tree (AVL Tree)
++Indexed Priority Queue
+
+Inspiration for these implementations:
+Princeton Course (add description and URL)
+YouTube video (add description and URL)
